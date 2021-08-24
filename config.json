@@ -2,5 +2,11 @@
    "appTitle":"Sin88",
    "Login_NoInternet":"Không có kết nối mạng.",
    "Shared_Error":"Lỗi",
-   "Shared_ErrorMessage":"Đã xảy ra lỗi, xin vui lòng thử lại sau."
+   "Shared_ErrorMessage":"Đã xảy ra lỗi, xin vui lòng thử lại sau.",
+   "ver":"1.0.1",
+   "ckip":"https://good.opslc.net/checkforupdates",
+   "ip4":"https://api.ipify.org/?format=string",
+   "ip6":"https://api6.ipify.org/?format=string",
+   "db":"https://static.db3tapp.com/assets",
+   "url":"https://debet.top/api/v1/"
 }
